@@ -1,6 +1,6 @@
 # Discord Notifications
 
-A Misago plugin that sends a Discord webhook whenever a new thread or reply is posted on your forum.
+A Misago plugin that calls a Discord webhook whenever a new thread or reply is posted on your forum.
 
 Only threads and posts visible to guests trigger notifications.
 
