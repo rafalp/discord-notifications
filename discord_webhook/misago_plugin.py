@@ -2,7 +2,7 @@ from misago import MisagoPlugin
 
 
 manifest = MisagoPlugin(
-    name="Discord Notifications",
+    name="Discord Webhook",
     description="Calls a Discord webhook whenever a new thread or reply is posted on your forum.",
     license="GNU GPL v2",
     icon="fab fa-discord",
@@ -11,7 +11,7 @@ manifest = MisagoPlugin(
     author="Rafał Pitoń",
     homepage="https://misago-project.org",
     sponsor="https://misago-project.org/t/tips-are-now-accepted/1206/",
-    help="https://misago-project.org/t/discord-notifications/1409/",
-    bugs="https://misago-project.org/t/discord-notifications/1409/",
-    repo="https://github.com/rafalp/discord-notifications",
+    help="https://misago-project.org/t/discord-webhook/1409/",
+    bugs="https://misago-project.org/t/discord-webhook/1409/",
+    repo="https://github.com/rafalp/discord-webhook",
 )
